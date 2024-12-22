@@ -14,7 +14,7 @@
   "description": "",
   "dependencies": {
     "gh-pages": "^6.2.0",
-    "parcel": "^2.13.2",
+    "parcel": "^2.13.3",
     "pnotify": "^5.2.0"
   },
   "devDependencies": {
