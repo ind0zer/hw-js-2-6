@@ -1,4 +1,4 @@
-8166
+8185
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faOutdent.d.ts133793715133109631 0
 75C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\js-yaml\package.json133793714660303774 0
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faSatelliteDish.js133793715011265937 0
@@ -69,6 +69,8 @@
 81C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\less\tables.less133793714879206389 0
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133793714689724599 0
 79C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\semver\internal\debug.js133793714676346273 0
+86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\PL.js133793714863546456 0
+54C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\index.js133793612443949632 0
 49C:\Users\irnis\Documents\GitHub\hw-js-2-6\.github133793612443363239 1
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faScroll.d.ts133793715134148491 0
 88C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_create_super.js133793714698646593 0
@@ -86,7 +88,7 @@
 61C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@lezer133793714647304574 1
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\animate.css\source\fading_exits\fadeOutLeftBig.css133793714863375262 0
 78C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\semver\classes\range.js133793714676537318 0
-52C:\Users\irnis\Documents\GitHub\hw-js-2-6\.gitignore133793612443363239 0
+52C:\Users\irnis\Documents\GitHub\hw-js-2-6\.gitignore133799694203779015 0
 75C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\semver\ranges\gtr.js133793714676378297 0
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml\node_modules\domutils\lib\index.js133793714912968305 0
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\dist\css\bootstrap-theme.css.map133793714866304153 0
@@ -155,7 +157,7 @@
 88C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\lib\loops.js133793714786377581 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133793714718102992 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133793714783703528 0
-45C:\Users\irnis\Documents\GitHub\hw-js-2-6\src133793612443959601 1
+45C:\Users\irnis\Documents\GitHub\hw-js-2-6\src133799690651763961 1
 93C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\dist\js133793714979042648 1
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml\node_modules\dom-serializer\lib\esm\package.json133793714916823272 0
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\entities\lib\generated\encode-html.js.map133793714658336704 0
@@ -163,7 +165,7 @@
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133793714698278979 0
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\entities\lib\encode.d.ts.map133793714924756433 0
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\jquery\src\ajax133793714859251034 1
-46C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist133793717721852620 1
+46C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist133799692048578688 1
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faHistory.d.ts133793715131760420 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133793714761468162 0
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\scss\_list-group.scss133793714987578962 0
@@ -183,11 +185,7 @@
 61C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\jquery133793714879157306 1
 89C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\cors.js133793714857850172 0
 54C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules133793717854650557 1
-105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaughWink.d.ts133793715132476542 0
-71C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\binding.gyp133793714731256671 0
-103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCaretUp.d.ts133793715129513131 0
-52C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\app.js133793612443949632 0
-124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs133793717912290544 1
+124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs133799692149359608 1
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCircleNotch.js133793714938509234 0
 60C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\async133793714863319532 1
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\scss\mixins\_text-emphasis.scss133793714988659585 0
@@ -220,14 +218,25 @@
 108C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faNotesMedical.d.ts133793715133067346 0
 95C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\core\lib\public\PluginOptions.js133793714770665456 0
 54C:\Users\irnis\Documents\GitHub\hw-js-2-6\package.json133793716159458675 0
-56C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\index.html133793612443949632 0
+101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faThLarge.js133793715024557715 0
+96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_ts_generator\package.json133793714700546344 0
+107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\entities\readme.md133793714924776567 0
+102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCamera.d.ts133793715129401894 0
+99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133793714726334650 0
+117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\entities\lib\decode_codepoint.js133793714902448000 0
+100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\css-containment.js133793714858195304 0
+91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\jpegxr.js133793714861785782 0
+109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faAngleDoubleLeft.js133793714912229621 0
+124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133793714892087084 0
+102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133793714769780186 0
+78C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\node-addon-api\index.js133793714658915004 0
+55C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\index.css133793612443959601 0
+56C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\index.html133799690702134597 0
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\MU.js133793714863026304 0
 89C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\docusaurus.config.js133793714683968084 0
 91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\entities\lib\decode_codepoint.js.map133793714655798334 0
 76C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\animate.css\README.md133793714863149960 0
 56C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\javascript133793612443959601 1
-117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPrescriptionBottleAlt.d.ts133793715133603908 0
-56C:\Users\irnis\Documents\GitHub\hw-js-2-6\src\styles.css133793612443959601 0
 63C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@pnotify133793714647324524 1
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\popper.js\src\utils\getOppositeVariation.js133793714822325901 0
 115C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPrescriptionBottleAlt.js133793715004023233 0
@@ -315,6 +324,7 @@
 75C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\micromatch\README.md133793714806959910 0
 116C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\dom-serializer\node_modules133793714647324524 1
 94C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\font-awesome\scss\_rotated-flipped.scss133793714840926813 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\7e\90b55d04e171448754eacc08d4c1a39ff6bc8f133799692073222227 0
 75C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\browserslist\node.js133793714855846885 0
 76C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\async\groupByLimit.js133793714860235013 0
 61C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\base-x133793714856493221 1
@@ -803,7 +813,6 @@
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\SY.js133793714865201500 0
 85C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\watcher\src\Watcher.hh133793714669724199 0
 81C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\node-releases\package.json133793714805482203 0
-64C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.2b425724.js133793717720959282 0
 126C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\entities\lib\generated\decode-data-xml.js133793714905466653 0
 139C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133793714905350706 0
 73C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\slash\package.json133793714810180051 0
@@ -1285,7 +1294,7 @@
 79C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\term-size\vendor\windows133793714666310542 1
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\US.js133793714865960476 0
 126C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133793716091524808 0
-178C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\pack\pack-7d1d7e03f935a1d640d51efe0ed9324466a9c715.pack133793717927485372 0
+178C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\pack\pack-7d1d7e03f935a1d640d51efe0ed9324466a9c715.pack133799692073245907 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2133793714873625152 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faQuoteRight.js133793715004158007 0
 87C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\term-size\vendor\macos\.DS_Store133793714666287630 0
@@ -1748,7 +1757,7 @@
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\htmlparser2\lib\Parser.d.ts133793714908286236 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\htmlparser2\lib\Parser.js133793714907479345 0
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_define_property133793714700074539 1
-131C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.93025451.js.map133793717927157311 0
+131C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.93025451.js.map133799692072757946 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133793714935889782 0
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\domhandler\package.json133793714915983714 0
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\user-timing.js133793714865983325 0
@@ -1784,16 +1793,6 @@
 119C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\entities\lib\decode_codepoint.d.ts133793714908286236 0
 91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\dist\unpacker\agents.js133793714856102798 0
 123C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\entities\lib\decode_codepoint.d.ts.map133793714908235445 0
-101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faThLarge.js133793715024557715 0
-96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_ts_generator\package.json133793714700546344 0
-107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\entities\readme.md133793714924776567 0
-102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCamera.d.ts133793715129401894 0
-99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133793714726334650 0
-117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\entities\lib\decode_codepoint.js133793714902448000 0
-100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\css-containment.js133793714858195304 0
-91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\jpegxr.js133793714861785782 0
-109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faAngleDoubleLeft.js133793714912229621 0
-124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133793714892087084 0
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-include\node_modules\entities\lib\encode-trie.js133793714905476990 0
 78C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\email-addresses\LICENSE133793714841179694 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\permissions-api.js133793714863466979 0
@@ -1991,7 +1990,7 @@
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\domutils133793714909722524 1
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts133793714916947809 0
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\posthtml-parser\changelog.md133793714905290653 0
-57C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.html133793717720948592 0
+57C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.html133799692048112534 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPollH.d.ts133793715133523883 0
 80C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlparser2\lib\Parser.js133793714650677638 0
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\posthtml-expressions\node_modules\posthtml-parser\license133793714905250367 0
@@ -2789,7 +2788,7 @@
 109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\scss\mixins\_forms.scss133793714987310574 0
 113C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\scss\mixins\_gradients.scss133793714987487742 0
 118C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\scss\mixins\_grid-framework.scss133793714987498895 0
-134C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\heads\gh-pages133793717912279425 0
+134C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\heads\gh-pages133799692074873204 0
 82C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\jquery\src\effects\Tween.js133793714859211849 0
 108C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\scss\mixins\_grid.scss133793714987509282 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\webkit-user-drag.js133793714866717533 0
@@ -2863,7 +2862,6 @@
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\js\dist\scrollspy.js133793714939239543 0
 71C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\is-glob\index.js133793714818904586 0
 177C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\pack\pack-7d1d7e03f935a1d640d51efe0ed9324466a9c715.rev133793717911924318 0
-128C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.0a19ad1e.css133793717927100136 0
 83C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@pnotify\mobile\CHANGELOG.md133793714875694198 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\pnotify\node_modules\bootstrap\js\dist\scrollspy.js.map133793714984265036 0
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133793714783676265 0
@@ -3011,6 +3009,7 @@
 109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faMoneyBillWave.d.ts133793715132947529 0
 83C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlparser2\lib\index.js.map133793714651007360 0
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\webtransport.js133793714866753994 0
+143C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\remotes\origin\gh-pages133799692149359608 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faMicrophone.d.ts133793715132870784 0
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\transformer-raw\LICENSE133793714705114428 0
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\intersectionobserver.js133793714861476550 0
@@ -3078,7 +3077,6 @@
 127C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\file2.txt133793714796447280 0
 111C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faSuitcaseRolling.d.ts133793715134949438 0
 111C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files133793714796408953 1
-69C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.0a19ad1e.css.map133793717721278008 0
 92C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\lib\modules\mergeScripts.mjs133793714712958864 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faSign.d.ts133793715134299299 0
 116C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133793714702005507 0
@@ -3104,7 +3102,7 @@
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\HT.js133793714860990831 0
 87C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\ordered-binary\.idea\modules.xml133793714653173253 0
 84C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\async\internal\getIterator.js133793714860224809 0
-125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\FETCH_HEAD133793717919781331 0
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\FETCH_HEAD133799692068903945 0
 134C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files\embed\embed2\file3.txt133793714796488171 0
 111C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files133793714796379610 1
 89C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\domutils\lib\esm\manipulation.d.ts133793714651587934 0
@@ -3149,7 +3147,7 @@
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faArrowDown.js133793714912359515 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\parcel\lib\cli.js133793714758468920 0
 71C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\p-try\index.d.ts133793714800881591 0
-114C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git133793717928266580 1
+114C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git133799692074908713 1
 93C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_iterable_to_array.js133793714699046848 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\lib\modules\removeEmptyAttributes.cjs133793714677633246 0
 95C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\core\src\requests\PathRequest.js133793714770665456 0
@@ -3270,8 +3268,6 @@
 81C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\node-addon-api\common.gypi133793714657363805 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\dotenv-expand\lib133793714849881150 1
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\DO.js133793714859969162 0
-102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133793714769780186 0
-78C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\node-addon-api\index.js133793714658915004 0
 84C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\transformer-image\src133793714718154247 1
 80C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\node-addon-api\LICENSE.md133793714658924976 0
 87C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fast-glob\out\utils\pattern.d.ts133793714848034125 0
@@ -3414,6 +3410,7 @@
 71C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\merge2\README.md133793714826790056 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\make-dir\index.js133793714806845551 0
 76C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\make-dir\node_modules133793716091434541 1
+64C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.28f372c2.js133799692048124026 0
 111C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133793714683467198 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLungsVirus.d.ts133793715132632783 0
 91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\cjs\_async_iterator.cjs133793714689423611 0
@@ -3443,6 +3440,8 @@
 76C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\locate-path\readme.md133793714806445962 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\async\allLimit.js133793714858926969 0
 63C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\bin133793714746838153 1
+105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaughWink.d.ts133793715132476542 0
+71C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\binding.gyp133793714731256671 0
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\caching.js133793714746827213 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\lmdb\dependencies133793714746735383 1
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faTty.js133793715030248248 0
@@ -3941,7 +3940,7 @@
 78C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_dispose133793714700085969 1
 88C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\runtime-react-refresh\src133793714742004360 1
 79C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\lib\helpers.cjs133793714677533568 0
-127C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.93025451.js133793717927100136 0
+127C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.93025451.js133799692072723026 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faBurn.d.ts133793715129336619 0
 75C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\core\spack.d.ts133793714670309604 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\requestidlecallback.js133793714863775524 0
@@ -3982,6 +3981,7 @@
 84C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\babel.config.js133793714683958051 0
 73C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\docs133793714712835289 1
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133793714859103558 0
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\89133799692074853112 1
 81C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\package.json133793714712669781 0
 80C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\sidebars.js133793714683968084 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faTablets.js133793715024305042 0
@@ -4002,6 +4002,7 @@
 79C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\commander\lib\command.js133793714849708548 0
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133793714712722456 0
 111C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133793714712766681 0
+148C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs\remotes\origin\gh-pages133799692149369669 0
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133793714712787072 0
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\050-modules.md133793714712825107 0
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\BI.js133793714857212915 0
@@ -4216,6 +4217,7 @@
 67C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fclone\bench133793714832922211 1
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133793714680744575 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fclone\bower.json133793714832843423 0
+139C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs\remotes\origin133799692149369669 1
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@pnotify\font-awesome5-fix\dist\PNotifyFontAwesome5Fix.js133793714881092288 0
 66C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fclone\dist133793714832865837 1
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\wbr-element.js133793714866624227 0
@@ -4331,6 +4333,7 @@
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fast-glob\out\providers\matchers\partial.d.ts133793714847764969 0
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fast-glob\out\providers\matchers\partial.js133793714847558195 0
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fast-glob\out\providers\filters\deep.d.ts133793714847680437 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\32\a044dd6e5dac04f25bd491c0b6fd97b2965b5c133799692073190411 0
 94C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fast-glob\out\providers\filters\deep.js133793714847482482 0
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\fast-glob\out\providers\filters\error.d.ts133793714847700992 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faTractor.js133793715024770168 0
@@ -4345,6 +4348,7 @@
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faBaseballBall.js133793714926614737 0
 88C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\escape-string-regexp\package.json133793714856838145 0
 85C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\electron-to-chromium\README.md133793714859261171 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\41\c6c924d913383be17f0595558cb024074677ca133799692073076370 0
 85C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\escape-string-regexp\readme.md133793714856858176 0
 91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\watcher\src\watchman\BSER.hh133793714669658518 0
 76C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\escalade\package.json133793714840268043 0
@@ -4528,6 +4532,7 @@
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\css-boxshadow.js133793714857972531 0
 82C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\domutils\lib\helpers.js.map133793714651144718 0
 83C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\domhandler\lib\node.d.ts.map133793714650255946 0
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\41133799692073111580 1
 79C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\domutils\lib\legacy.d.ts133793714651587934 0
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faGrin.js133793714973722193 0
 87C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\dist\css\bootstrap.css133793714866637553 0
@@ -4750,7 +4755,7 @@
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\async\eachOf.js133793714859959043 0
 76C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\chalk\source\index.js133793714853522954 0
 72C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\LICENSE133793714866213975 0
-121C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\config133793717928256524 0
+121C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\config133799692073953808 0
 84C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\markdown-ansi\LICENSE133793714672179305 0
 82C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@pnotify\font-awesome5\dist133793714885291624 1
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\document-execcommand.js133793714859991644 0
@@ -4912,7 +4917,6 @@
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\PE.js133793714863456878 0
 73C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\animate.css\source133793714863630510 1
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\PH.js133793714863511134 0
-86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\PL.js133793714863546456 0
 85C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\cjs\_to_array.cjs133793714694811752 0
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\PM.js133793714863546456 0
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\regions\PN.js133793714863560403 0
@@ -5027,6 +5031,7 @@
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\background-img-opts.js133793714857108764 0
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133793714751865551 0
 108C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\background-position-x-y.js133793714857123840 0
+128C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.75a8a7dd.css133799692072712635 0
 114C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133793714857134263 0
 91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\bigint.js133793714857222898 0
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff2133793714878186769 0
@@ -5198,7 +5203,7 @@
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faListAlt.d.ts133793715132559381 0
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\element-from-point.js133793714860144484 0
 99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\es6-generators.js133793714860224809 0
-120C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\index133793717927535124 0
+120C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\index133799692074788364 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\es6-string-includes.js133793714860245052 0
 90C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\fetch.js133793714860316834 0
 92C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\flexbox.js133793714860396013 0
@@ -5243,7 +5248,7 @@
 94C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\indexeddb.js133793714861186814 0
 109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js133793714861216347 0
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\input-color.js133793714861226307 0
-139C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs\heads\gh-pages133793717912290544 0
+139C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs\heads\gh-pages133799692074883493 0
 113C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faChalkboardTeacher.d.ts133793715129579320 0
 99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\input-datetime.js133793714861226307 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\input-email-tel-url.js133793714861239625 0
@@ -5396,6 +5401,7 @@
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\bootstrap\fonts\glyphicons-halflings-regular.svg133793714875035497 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133793714866604205 0
 89C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\wasm.js133793714866614258 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\d9\58a6ac64d6b2ecb72f72c6cdc85c3495b010a1133799692074757033 0
 113C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faChevronCircleDown.d.ts133793715129692028 0
 88C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\wav.js133793714866624227 0
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\caniuse-lite\data\features\web-bluetooth.js133793714866647632 0
@@ -5741,7 +5747,7 @@
 88C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\workers\lib\childState.js133793714680470672 0
 95C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_ts_metadata\package.json133793714700570031 0
 126C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\description133793717855185747 0
-128C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.9b052072.css133793717927100136 0
+128C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.9b052072.css133799692072723026 0
 82C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\events\lib\types.js133793714688425249 0
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133793714704988539 1
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_ts_dispose_resources\package.json133793714700534836 0
@@ -5789,7 +5795,6 @@
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_inherits_loose\package.json133793714700147033 0
 96C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\types-internal\src\SemverRange.js133793714678117958 0
 92C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_inherits\package.json133793714700147033 0
-132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.0a19ad1e.css.map133793717927100136 0
 92C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_identity\package.json133793714700134003 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faHotdog.js133793714981701894 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\_\_get_prototype_of\package.json133793714700108809 0
@@ -5969,7 +5974,6 @@
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.bin\parcel.cmd133793716091524808 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faHippo.d.ts133793715131750420 0
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_object_destructuring_empty.js133793714699094508 0
-131C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.2b425724.js.map133793717927145285 0
 89C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_object_spread.js133793714699105856 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faMicroscope.d.ts133793715132892214 0
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_possible_constructor_return.js133793714699116751 0
@@ -5985,6 +5989,7 @@
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133793714699168311 0
 81C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\types-internal\lib133793714678232914 1
 81C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_throw.js133793714699178353 0
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\65133799692073301306 1
 95C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\reporter-cli\src\bundleReport.js133793714760546895 0
 95C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@swc\helpers\esm\_to_consumable_array.js133793714699192939 0
 99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faDizzy.js133793714954216943 0
@@ -6749,6 +6754,7 @@
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133793714761603830 1
 130C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133793714761617621 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\src\getCurrentPackageManager.js133793714761226716 0
+129C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\COMMIT_EDITMSG133799692074809845 0
 91C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\src\index.js133793714761365417 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\src\NodePackageManager.js133793714761480747 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@parcel\package-manager\src\promiseFromProcess.js133793714761522867 0
@@ -7035,7 +7041,7 @@
 84C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@nodelib\fs.stat\out\adapters133793714888433827 1
 86C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@nodelib\fs.stat\out\index.d.ts133793714888448137 0
 84C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@nodelib\fs.stat\out\index.js133793714888383275 0
-120C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.html133793717927110175 0
+120C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.html133799692072723026 0
 87C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@nodelib\fs.stat\out\settings.js133793714888393371 0
 92C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@nodelib\fs.stat\out\types\index.d.ts133793714888458126 0
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faVoteYea.d.ts133793715135934718 0
@@ -7287,6 +7293,7 @@
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCaretSquareRight.d.ts133793715129488230 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCaretSquareRight.js133793714937883050 0
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCaretSquareUp.js133793714937883050 0
+103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCaretUp.d.ts133793715129513131 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCaretUp.js133793714937893046 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCartPlus.d.ts133793715129534441 0
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCartPlus.js133793714937926463 0
@@ -7382,6 +7389,7 @@
 139C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\hooks\pre-receive.sample133793717855254895 0
 108C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCommentSlash.d.ts133793715130199072 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCommentSlash.js133793714947611072 0
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\32133799692073210937 1
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCompactDisc.js133793714947611072 0
 104C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCompress.d.ts133793715130209573 0
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCompress.js133793714947636683 0
@@ -7410,7 +7418,6 @@
 99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCubes.js133793714947782399 0
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faCut.js133793714947782399 0
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faDatabase.js133793714947793173 0
-127C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.2b425724.js133793717927100136 0
 100C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faDeaf.d.ts133793715130337197 0
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faDeaf.js133793714947793173 0
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faDemocrat.js133793714947803229 0
@@ -7644,6 +7651,7 @@
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faHSquare.d.ts133793715131907200 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faHSquare.js133793714981815063 0
 97C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.bin\node-gyp-build-optional-packages-test133793716091524808 0
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\7e133799692073245907 1
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faIceCream.js133793714981825029 0
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faIcicles.d.ts133793715131936684 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faIcicles.js133793714981839042 0
@@ -7680,7 +7688,6 @@
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaptopHouse.d.ts133793715132207278 0
 105C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaptopHouse.js133793714988744622 0
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaptopMedical.js133793714988754727 0
-68C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.2b425724.js.map133793717721278008 0
 101C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaugh.d.ts133793715132446423 0
 103C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaughBeam.js133793714988774892 0
 107C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faLaughSquint.d.ts133793715132466368 0
@@ -7818,6 +7825,7 @@
 102C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPowerOff.js133793715003861206 0
 98C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPray.js133793715003986422 0
 112C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPrescriptionBottle.js133793715004018192 0
+117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faPrescriptionBottleAlt.d.ts133793715133603908 0
 106C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faProcedures.d.ts133793715133613993 0
 110C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faProjectDiagram.d.ts133793715133613993 0
 99C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@fortawesome\free-solid-svg-icons\faSun.d.ts133793715134959410 0
@@ -8121,31 +8129,40 @@
 82C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@babel\code-frame\README.md133793714651032514 0
 85C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\@babel\code-frame\lib\index.js133793714651075798 0
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages133793717855175623 1
-109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git133793717927074751 1
+109C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git133799692072702494 1
 123C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.editorconfig133793717912338076 0
 124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.gitattributes133793717912338076 0
 117C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.github133793717912348064 1
 120C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.gitignore133793717912348064 0
-128C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.8b749a66.css133793717927100136 0
-132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.8b749a66.css.map133793717927100136 0
-132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.9b052072.css.map133793717927110175 0
+127C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.28f372c2.js133799692072712635 0
+131C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.28f372c2.js.map133799692072757946 0
+132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.75a8a7dd.css.map133799692072723026 0
+128C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.8b749a66.css133799692072723026 0
+132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.8b749a66.css.map133799692072723026 0
+132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\index.9b052072.css.map133799692072747829 0
 151C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.parcel-cache\36594dda8227586c-AssetGraph133793717912387961 0
 152C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.parcel-cache\9a8abc112d34041d-BundleGraph133793717912387961 0
 151C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.parcel-cache\af1799acfac5427d-AssetGraph133793717912405950 0
 153C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.parcel-cache\b94160e16fbae75a-RequestGraph133793717912420975 0
 151C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.parcel-cache\bab21dea6816573d-AssetGraph133793717912426011 0
 151C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.parcel-cache\d3fc123861b8a331-AssetGraph133793717912426011 0
-119C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\HEAD133793717925613418 0
+119C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\HEAD133799692071309534 0
 119C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs133793717912290544 1
-122C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects133793717920050525 1
+122C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects133799692075079172 1
 119C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs133793718986201545 1
 122C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\shallow133793717871883665 0
-125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\heads133793717926527838 1
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\heads133799692074888535 1
 124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\tags133793717870365588 1
-134C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\remotes\origin133793718986211572 1
+134C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\refs\remotes\origin133799692149369669 1
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\d7133799692073175342 1
+125C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\d9133799692074778397 1
 177C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\pack\pack-7d1d7e03f935a1d640d51efe0ed9324466a9c715.idx133793717911914688 0
-124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\HEAD133793717926527838 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\d7\83d98591334ef732f27ff48167eb5afbb1794a133799692073155279 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\89\91391ae67d3f778bb0b9098ace464a321627ce133799692074831402 0
+164C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\objects\65\2cd5152404ee540b64b07ccafb79c1d1e7963a133799692073276153 0
+124C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\HEAD133799692074883493 0
 130C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs\heads133793717912290544 1
+132C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\logs\refs\remotes133799692149359608 1
 138C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\hooks\commit-msg.sample133793717855211330 0
 144C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\hooks\pre-merge-commit.sample133793717855231833 0
 138C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.cache\gh-pages\https!github.com!ind0zer!hw-js-2-6.git\.git\hooks\pre-rebase.sample133793717855242380 0
@@ -8161,7 +8178,9 @@
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.bin\parcel.ps1133793716091524808 0
 66C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.bin\semver133793716091535211 0
 70C:\Users\irnis\Documents\GitHub\hw-js-2-6\node_modules\.bin\semver.cmd133793716091535211 0
-65C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.0a19ad1e.css133793717720959282 0
+68C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.28f372c2.js.map133799692048199534 0
+65C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.75a8a7dd.css133799692048112534 0
+69C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.75a8a7dd.css.map133799692048199534 0
 69C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.8b749a66.css.map133793717721278008 0
 68C:\Users\irnis\Documents\GitHub\hw-js-2-6\dist\index.93025451.js.map133793717721278008 0
 59C:\Users\irnis\Documents\GitHub\hw-js-2-6\.github\workflows133793612443363239 1
